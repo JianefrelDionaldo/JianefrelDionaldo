@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img title="nodeJs" scr="https://custom-icon-badges.demolab.com/badge/Node_JS-3c873a.svg?logo=bxl-nodejs&logoColor=white" alt="Err">
   <img title="figma" scr="https://custom-icon-badges.demolab.com/badge/FIGMA-000000.svg?logo=figma&logoColor=white" alt="Err">
 </p>
-
+<script src="https://kit.fontawesome.com/50291c3cb8.js" crossorigin="anonymous"></script>
 
 
 
