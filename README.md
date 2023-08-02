@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <img title="my-Instagram" alt="Err" src="https://custom-icon-badges.demolab.com/badge/Instagram-C13584.svg?logo=logo-instagram&logoColor=white">
   </a>
 </p>
-![@JianefrelDionaldo](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif
 ------------------------------------------- 
 
 ### My Tech Stack
