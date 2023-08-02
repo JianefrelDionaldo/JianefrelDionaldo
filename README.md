@@ -29,3 +29,23 @@ Here are some ideas to get you started:
     <img title="my-Instagram" alt="Err" src="https://custom-icon-badges.demolab.com/badge/Instagram-C13584.svg?logo=logo-instagram&logoColor=white">
   </a>
 </p>
+
+------------------------------------------- 
+
+### My Tech Stack
+<p align="left">
+  <img title="vsCode" scr="https://custom-icon-badges.demolab.com/badge/VS_CODE-000000.svg?logo=bxl-visual-studio&logoColor=blue" alt="Err">
+  <img title="git" scr="https://custom-icon-badges.demolab.com/badge/G_I_T-F1502F.svg?logo=bxl-git&logoColor=white" alt="Err">
+  <img title="html" scr="https://custom-icon-badges.demolab.com/badge/H_T_M_L-e34c26.svg?logo=bxl-html5&logoColor=white" alt="Err">
+  <img title="css" scr="https://custom-icon-badges.demolab.com/badge/C_S_S-2965f1.svg?logo=bxl-css3&logoColor=white" alt="Err">
+  <img title="javascript" scr="https://custom-icon-badges.demolab.com/badge/JavaScript-f0db4f.svg?logo=bxl-javascript&logoColor=white" alt="Err">
+  <img title="tailwindCss" scr="https://custom-icon-badges.demolab.com/badge/Tailwind_CSS-91D8E4.svg?logo=bxl-tailwind-css&logoColor=white" alt="Err">
+  <img title="nodeJs" scr="https://custom-icon-badges.demolab.com/badge/Node_JS-3c873a.svg?logo=bxl-nodejs&logoColor=white" alt="Err">
+  <img title="figma" scr="https://custom-icon-badges.demolab.com/badge/FIGMA-000000.svg?logo=figma&logoColor=white" alt="Err">
+</p>
+
+
+
+
+
+
