@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![@JianefrelDionaldo](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://www.facebook.com/jian.dionaldoll)
+[![@JianefrelDionaldo](https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif)](https://www.facebook.com/jian.dionaldoll)
 ------------------------------------------- 
 
 ### Socials:
