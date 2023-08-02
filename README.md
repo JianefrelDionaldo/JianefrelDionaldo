@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>Socials:</p>
+<p><strong>Socials:</strong></p>
 <p align="left">
   <a href="https://www.instagram.com/jn_devz/" target="_blank">
     <img title="my-Instagram" alt="Err" src="https://custom-icon-badges.demolab.com/badge/Instagram-DB005B.svg?logo=logo-instagram&logoColor=white">
