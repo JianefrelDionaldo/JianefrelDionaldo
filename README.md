@@ -33,18 +33,3 @@ Here are some ideas to get you started:
 ------------------------------------------- 
 
 ### My Tech Stack
-<p align="left">
-  <img scr="https://custom-icon-badges.demolab.com/badge/VS_CODE-000000.svg?logo=bxl-visual-studio&logoColor=blue" alt="Err">
-  <img scr="https://custom-icon-badges.demolab.com/badge/G_I_T-F1502F.svg?logo=bxl-git&logoColor=white" alt="Err">
-  <img scr="https://custom-icon-badges.demolab.com/badge/H_T_M_L-e34c26.svg?logo=bxl-html5&logoColor=white" alt="Err">
-  <img scr="https://custom-icon-badges.demolab.com/badge/C_S_S-2965f1.svg?logo=bxl-css3&logoColor=white" alt="Err">
-  <img scr="https://custom-icon-badges.demolab.com/badge/JavaScript-f0db4f.svg?logo=bxl-javascript&logoColor=white" alt="Err">
-  <img scr="https://custom-icon-badges.demolab.com/badge/Tailwind_CSS-91D8E4.svg?logo=bxl-tailwind-css&logoColor=white" alt="Err">
-  <img scr="https://custom-icon-badges.demolab.com/badge/Node_JS-3c873a.svg?logo=bxl-nodejs&logoColor=white" alt="Err">
-  <img scr="https://custom-icon-badges.demolab.com/badge/FIGMA-000000.svg?logo=figma&logoColor=white" alt="Err">
-</p>
-
-
-
-
-
