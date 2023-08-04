@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <img width="100%" height="50%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzl3bTNhcjh3czJkbXBkaDk4eWQ0NzUyMHBmMGRxbDdlbTI0ajdkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tgVwqeYuPvmyjTQhEi/giphy.gif" alt="GIF"/>
-<br>
+
 <!--
 **JianefrelDionaldo/JianefrelDionaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
