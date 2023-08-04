@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-
+<img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" alt="GIF"/>
 <!--
 **JianefrelDionaldo/JianefrelDionaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
