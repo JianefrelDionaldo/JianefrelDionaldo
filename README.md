@@ -4,13 +4,19 @@
 ------------------------------------------- 
 
 # Hi! I'm IT Student, Aspiring Full Stack Dev | Software Engineer.
+
 ### 👨‍💻 About Me!
 -  🏫 Information Technology Student @ BestLink College of the Philippines.
 -  💻 Self Taught | Bachelor's Degree Based in Manila, Philippines.
 -  ✅ Committed to Continuous Learning and Expanding Skill Capabilities.
+-  📫 You can reach me by email.
 
-------------------------------------------- 
+-------------------------------------------
 
+### 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=JianefrelDionaldo&theme=midnight-purple&hide_border=false)
+
+-------------------------------------------
 ### 🖳  My Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,6 +28,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ------------------------------------------- 
-
+<!--
   <img src="https://github-readme-stats.vercel.app/api?username=JianefrelDionaldo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Err-Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JianefrelDionaldo&theme=tokyonight&hide_border=true" alt="Err-stats"/>
+-->
