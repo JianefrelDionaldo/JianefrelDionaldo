@@ -13,8 +13,11 @@
 
 -------------------------------------------
 
-### 📊 GitHub Stats:
+### 📊  GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JianefrelDionaldo&theme=midnight-purple&hide_border=false)
+
+### ✪  Profile Visits:
+![Visitor Count](https://profile-counter.glitch.me/{JianefrelDionaldo}/count.svg)
 
 -------------------------------------------
 ### 🖳  My Tech Stack
