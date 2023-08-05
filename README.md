@@ -3,7 +3,7 @@
 
 ------------------------------------------- 
 
-# Hi! I'm an IT Student, Aspiring Full Stack Dev | Software Engineer.
+# Hi! I'm an IT Student, aspiring Full Stack Dev | Software Engineer.
 
 ### 👨‍💻 About Me!
 -  🏫 Information Technology Student @ BestLink College of the Philippines.
