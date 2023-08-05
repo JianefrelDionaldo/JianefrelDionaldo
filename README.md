@@ -27,7 +27,6 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-------------------------------------------- 
 <!--
   <img src="https://github-readme-stats.vercel.app/api?username=JianefrelDionaldo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Err-Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JianefrelDionaldo&theme=tokyonight&hide_border=true" alt="Err-stats"/>
