@@ -29,7 +29,7 @@
 
 --------------------------------------------
 
-### 🧔  Profile Visits:
+### 👨‍💻  Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/{JianefrelDionaldo}/count.svg)
 
 <!--
