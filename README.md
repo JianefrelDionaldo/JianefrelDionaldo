@@ -23,7 +23,5 @@
 
 ------------------------------------------- 
 
-<div align="center">
-  <img width="auto" src="https://github-readme-stats.vercel.app/api?username=JianefrelDionaldo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Err-Stats"/>
-  <img width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=JianefrelDionaldo&theme=tokyonight&hide_border=true" alt="Err-stats"/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=JianefrelDionaldo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Err-Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JianefrelDionaldo&theme=tokyonight&hide_border=true" alt="Err-stats"/>
