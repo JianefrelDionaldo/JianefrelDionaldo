@@ -3,21 +3,27 @@
 
 ------------------------------------------- 
 
-#### 👨‍💻 About Me!
-## Hi! I'm IT Student, Aspiring Full Stack Dev | Software Engineer.
+# Hi! I'm IT Student, Aspiring Full Stack Dev | Software Engineer.
+### 👨‍💻 About Me!
 -  🏫 Information Technology Student @ BestLink College of the Philippines.
 -  💻 Self Taught | Bachelor's Degree Based in Manila, Philippines.
 -  ✅ Committed to Continuous Learning and Expanding Skill Capabilities.
 
 ------------------------------------------- 
 
-### Socials:
-<p align="left">
-  <a href="https://www.linkedin.com/in/jianefrel-dionaldo-7a2724258/" target="_blank"><img title="my-LinkedIn" alt="Err" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2.svg?logo=logo-linkedin&logoColor=white"></a>
-  <a href="https://www.facebook.com/jian.dionaldoll" target="_blank"><img title="my-Facebook" alt="Err" src="https://custom-icon-badges.demolab.com/badge/Facebook-1778F2.svg?logo=logo-facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/jn_devz/" target="_blank"><img title="my-Instagram" alt="Err" src="https://custom-icon-badges.demolab.com/badge/Instagram-C13584.svg?logo=logo-instagram&logoColor=white"></a>
-</p>
+### 🖳  My Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ------------------------------------------- 
 
-### My Tech Stack
+<div align="center">
+  <img width="auto" src="https://github-readme-stats.vercel.app/api?username=JianefrelDionaldo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Err-Stats"/>
+  <img width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=JianefrelDionaldo&theme=tokyonight&hide_border=true" alt="Err-stats"/>
+</div>
