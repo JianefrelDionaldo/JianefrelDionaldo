@@ -15,11 +15,11 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # meta
-          API_BASE_URL: https://wakatime.com/api
+          API_BASE_URL: https://wakatime.com/settings/api-key
           REPOSITORY: JianefrelDionaldo/JianefrelDionaldo
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          BLOCKS: ░▒▓█
           CODE_LANG: all_time 
           TIME_RANGE: true
           LANG_COUNT: 10
@@ -31,8 +31,8 @@ jobs:
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: main
           TARGET_PATH: README.md
-          COMMITTER_NAME: JianefrelDionaldo
-          COMMITTER_EMAIL: dionaldojian01@gmail.com
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.org
           AUTHOR_NAME: JianefrelDionaldo
           AUTHOR_EMAIL: dionaldojian01@gmail.com
           # you can populate email-id with secretes instead
