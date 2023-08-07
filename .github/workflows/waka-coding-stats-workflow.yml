@@ -15,7 +15,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # meta
-          API_BASE_URL: https://wakatime.com/settings/api-key
+          API_BASE_URL: https://wakatime.com/api
           REPOSITORY: JianefrelDionaldo/JianefrelDionaldo
           SHOW_TITLE: true
           SECTION_NAME: waka
