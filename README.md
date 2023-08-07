@@ -14,7 +14,15 @@
 -------------------------------------------
 
 ### 📊  GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=JianefrelDionaldo&theme=midnight-purple&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=JianefrelDionaldo&theme=midnight-purple&hide_border=flase)
+
+[![Jianefrel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JianefrelDionaldo&show_icons=true&hide_border=false&theme=midnight-purple)](https://github.com/JianefrelDionaldo/github-readme-stats)
+
+-------------------------------------------
+### Github Metrics
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 -------------------------------------------
 ### 💻  My Tech Stack
@@ -24,8 +32,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node%20JS-black?style=for-the-badge&logo=node.js&logoColor=green)
+![Figma](https://img.shields.io/badge/figma-6527BE.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 --------------------------------------------
 
