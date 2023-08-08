@@ -7,9 +7,9 @@
 
 ### 👨‍💻 About Me!
 -  🏫 Information Technology Student @ BestLink College of the Philippines.
--  💻 Self Taught | Bachelor's Degree Based in Manila, Philippines.
+-  💻 Self Taught | Currently learning **JavaScript**
 -  ✅ Committed to Continuous Learning and Expanding Skill Capabilities.
--  📫 You can reach me by email.
+-  📫 You can reach me by email: **dionaldojian01@gmail.com**
 
 -------------------------------------------
 
