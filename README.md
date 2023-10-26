@@ -7,9 +7,9 @@
 
 ### 👨‍💻 About Me!
 -  🏫 Information Technology Student @ BestLink College of the Philippines.
--  💻 Self Taught | Currently learning **JavaScript, SQL, MySQL, JAVA, Data Structures & Algorithms**
+-  💻 Self Taught | Currently lea myrning **JavaScript, SQL, MySQL, JAVA, Data Structures & Algorithms**
 -  ✅ Committed to Continuous Learning and Expanding Skill Capabilities.
--  📫 You can reach me by email: **dionaldojian01@gmail.com**
+-  📫 You can reach me by email.
 
 ---
 
