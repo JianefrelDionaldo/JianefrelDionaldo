@@ -7,8 +7,8 @@
 
 ### 👨‍💻 About Me!
 -  🏫 Information Technology Student @ BestLink College of the Philippines.
--  💻 Self Taught | Currently lea myrning **JavaScript, SQL, MySQL, JAVA, Data Structures & Algorithms**
--  ✅ Committed to Continuous Learning and Expanding Skill Capabilities.
+-  💻 Self Taught | currently learning **JavaScript, SQL, MySQL, JAVA, Data Structures & Algorithms**
+-  ✅ Committed to continuous learning and expanding my capabilities.
 -  📫 You can reach me by email.
 
 ---
