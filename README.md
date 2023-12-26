@@ -24,7 +24,6 @@ For a quick response, DM me on [Instagram](https://www.instagram.com/jn_devz/) o
 For professional inquires, you can reach out via email at [dionaldojian01@gmail.com](mailto:dionaldojian01@gmail.com) 
 
 ---
----
 
 ### 💻  My Tech Stack
 
