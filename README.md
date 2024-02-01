@@ -40,10 +40,12 @@ For professional inquires, you can reach out via email at [dionaldojian01@gmail.
 ![Git](https://img.shields.io/badge/git-%232b3137.svg?style=for-the-badge&logo=git&logoColor=%23F1502F)
 ![Github](https://img.shields.io/badge/github-%2324292d.svg?style=for-the-badge&logo=github&logoColor=%23ffffff)
 
+<!--
 ---
 ### 🚀  Top Lang
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JianefrelDionaldo&layout=compact&theme=light) <br>
+-->
 
 <!--
 ---
