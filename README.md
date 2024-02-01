@@ -45,6 +45,7 @@ For professional inquires, you can reach out via email at [dionaldojian01@gmail.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JianefrelDionaldo&layout=compact&theme=light) <br>
 
+<!--
 ---
 ### 📊  Github Metrics
   <img src="https://github-readme-stats.vercel.app/api?username=JianefrelDionaldo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Err-Stats"/>
@@ -55,3 +56,4 @@ For professional inquires, you can reach out via email at [dionaldojian01@gmail.
 ### 👨‍💻  Profile Visits:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jianefreldionaldo&label=Profile%20views&color=0e75b6&style=flat)
+-->
