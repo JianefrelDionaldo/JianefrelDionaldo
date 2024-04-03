@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jianefrel
 
-I'm a 21 years-old developer based on Philippines.
+I'm a 21 years-old developer based on the Philippines.
 - My website is underdevelopment.
 - Stay update with my socials [Instagram](https://www.instagram.com/jn_devz/), [threads](https://www.threads.net/@jn_devz), [X](https://twitter.com/dionaldo_jian) and [LinkedIn](https://www.linkedin.com/in/jianefrel-dionaldo-7a2724258/).
 
