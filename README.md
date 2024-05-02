@@ -1,18 +1,18 @@
 # 👋 Hey, I'm Jianefrel
 
-I'm a 21 years-old developer based on the Philippines.
+I'm a 21 years-old Web developer based on the Philippines.
 - My website is underdevelopment.
 - Stay update with my socials [Instagram](https://www.instagram.com/jn_devz/), [threads](https://www.threads.net/@jn_devz), [X](https://twitter.com/dionaldo_jian) and [LinkedIn](https://www.linkedin.com/in/jianefrel-dionaldo-7a2724258/).
 
 ### ✅ Current Endeavors
-I'm an IT Student, aspiring Full Stack Dev | Software Engineer. And currently enrolled in the prestigiuos 'The Complete 2024 Web Development Bootcamp' on Udemy.<br>
+I'm an IT Student, an aspiring Full Stack MERN Developer/Software Engineer. Currently, I enrolled in the prestigiuos 'The Complete 2024 Web Development Bootcamp' on Udemy.<br>
 - I am committed to mastering not only the fundamentals taught in my academic curriculum but also gaining practical insights and hands-on experience from the dynamic world of web development.
 - I'm exploring different tools, software applications and libraries to enhance my skills set. 
  
 --- 
 ### 👨‍💻 About Me!
 - Information Technology Student at BestLink College of the Philippines.
-- Self Taught | currently learning **JavaScript**, **React.Js**, **Next.JS**, **SQL**, **MySQL** and **Data Structures & Algorithms**.
+- Self Taught | currently learning **JavaScript**, **React.Js**, **NodeJS**, **SQL**, **MySQL** and **Data Structures & Algorithms**.
 - Committed to continuous learning and expanding my capabilities.
 
 
