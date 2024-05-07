@@ -20,7 +20,7 @@ I'm an IT Student, an aspiring Full Stack MERN Developer/Software Engineer. Curr
 
 ### 📫 Contact
 
-For a quick response, DM me on [Instagram](https://www.instagram.com/jn_devz/) or [LinkedIn](https://www.linkedin.com/in/jianefrel-dionaldo-7a2724258/).<br>
+For a quick response, DM me on [Instagram](https://www.instagram.com/jn_devz/) or [LinkedIn](https://www.linkedin.com/in/jianefrel-dionaldo/).<br>
 For professional inquires, you can reach out via email at [dionaldojian01@gmail.com](mailto:dionaldojian01@gmail.com) 
 
 ---
