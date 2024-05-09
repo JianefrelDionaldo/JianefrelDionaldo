@@ -2,7 +2,7 @@
 
 I'm a 21 years-old Web developer based on the Philippines.
 - My website is underdevelopment.
-- Stay update with my socials [Instagram](https://www.instagram.com/jn_devz/), [threads](https://www.threads.net/@jn_devz), [X](https://twitter.com/dionaldo_jian) and [LinkedIn](https://www.linkedin.com/in/jianefrel-dionaldo-7a2724258/).
+- Stay update with my socials [Daily.dev](https://app.daily.dev/jianefrel), [Instagram](https://www.instagram.com/jn_devz/), [threads](https://www.threads.net/@jn_devz), [X](https://twitter.com/dionaldo_jian) and [LinkedIn](https://www.linkedin.com/in/jianefrel-dionaldo-7a2724258/).
 
 ### ✅ Current Endeavors
 I'm an IT Student, an aspiring Full Stack MERN Developer/Software Engineer. Currently, I enrolled in the prestigiuos 'The Complete 2024 Web Development Bootcamp' on Udemy.<br>
