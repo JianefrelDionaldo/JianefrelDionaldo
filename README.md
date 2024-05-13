@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Jianefrel
-<a href="https://app.daily.dev/jianefrel"><img src="https://api.daily.dev/devcards/v2/ZZLpdij3xSX9bASldSl3o.png?type=default&r=sjb" width="356" alt="JianefrelDionaldo's Dev Card"/></a>
+<!--<a href="https://app.daily.dev/jianefrel"><img src="https://api.daily.dev/devcards/v2/ZZLpdij3xSX9bASldSl3o.png?type=default&r=sjb" width="356" alt="JianefrelDionaldo's Dev Card"/></a> -->
 
 
 I'm a 21 years-old Web developer based on the Philippines.
