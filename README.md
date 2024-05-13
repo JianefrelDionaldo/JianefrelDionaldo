@@ -1,4 +1,6 @@
 # 👋 Hey, I'm Jianefrel
+<a href="https://app.daily.dev/jianefrel"><img src="https://api.daily.dev/devcards/v2/ZZLpdij3xSX9bASldSl3o.png?type=default&r=sjb" width="356" alt="JianefrelDionaldo's Dev Card"/></a>
+
 
 I'm a 21 years-old Web developer based on the Philippines.
 - My website is underdevelopment.
@@ -39,6 +41,7 @@ For professional inquires, you can reach out via email at [dionaldojian01@gmail.
 ![Figma](https://img.shields.io/badge/figma-6527BE.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%232b3137.svg?style=for-the-badge&logo=git&logoColor=%23F1502F)
 ![Github](https://img.shields.io/badge/github-%2324292d.svg?style=for-the-badge&logo=github&logoColor=%23ffffff)
+
 
 <!--
 ---
