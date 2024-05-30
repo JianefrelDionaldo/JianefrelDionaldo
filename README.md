@@ -7,7 +7,9 @@ I'm a 21 years-old Web developer based on the Philippines.
 - Stay update with my socials [Daily.dev](https://app.daily.dev/jianefrel), [Instagram](https://www.instagram.com/jn_devz/), [threads](https://www.threads.net/@jn_devz), [X](https://twitter.com/dionaldo_jian) and [LinkedIn](https://www.linkedin.com/in/jianefrel-dionaldo-7a2724258/).
 
 ### ✅ Current Endeavors
-I'm an IT Student, an aspiring Full Stack MERN Developer/Software Engineer. Currently, I enrolled in the prestigiuos 'The Complete 2024 Web Development Bootcamp' on Udemy.<br>
+I'm an IT Student, an aspiring MERN Full Stack Web Developer/Software Engineer. 
+- I'm enrolled in the prestigiuos **The Complete 2024 Web Development Bootcamp** in Udemy.
+- I'm enrolled in the prestigious **React, NodeJS, Express & MongoDB - The MERN Fullstack Guide** in Udemy.
 - I am committed to mastering not only the fundamentals taught in my academic curriculum but also gaining practical insights and hands-on experience from the dynamic world of web development.
 - I'm exploring different tools, software applications and libraries to enhance my skills set. 
  
@@ -16,7 +18,6 @@ I'm an IT Student, an aspiring Full Stack MERN Developer/Software Engineer. Curr
 - Information Technology Student at BestLink College of the Philippines.
 - Self Taught | currently learning **JavaScript**, **React.Js**, **NodeJS**, **SQL**, **MySQL** and **Data Structures & Algorithms**.
 - Committed to continuous learning and expanding my capabilities.
-
 
 ---
 
