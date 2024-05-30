@@ -3,7 +3,7 @@
 
 
 I'm a 21 years-old Web developer based on the Philippines.
-- My website is underdevelopment.
+- My Porfolio website is still underdevelopment.
 - Stay update with my socials [Daily.dev](https://app.daily.dev/jianefrel), [Instagram](https://www.instagram.com/jn_devz/), [threads](https://www.threads.net/@jn_devz), [X](https://twitter.com/dionaldo_jian) and [LinkedIn](https://www.linkedin.com/in/jianefrel-dionaldo-7a2724258/).
 
 ### ✅ Current Endeavors
