@@ -15,7 +15,7 @@ I'm an IT Student, Full Stack MERN Developer.
  
 --- 
 ### 👨‍💻 About Me!
-- Information Technology Student at BestLink College of the Philippines.
+- Bachelor of Science in Information Technology (BSIT) Student at BestLink College of the Philippines.
 - Self Taught | currently learning **JavaScript**, **React.Js**, **NodeJS**, **SQL**, **MySQL** and **Data Structures & Algorithms**.
 - Committed to continuous learning and expanding my capabilities.
 
@@ -23,7 +23,7 @@ I'm an IT Student, Full Stack MERN Developer.
 
 ### 📫 Contact
 
-For a quick response, DM me on [Instagram](https://www.instagram.com/jn_devz/) or [LinkedIn](https://www.linkedin.com/in/jianefrel-dionaldo/).<br>
+For a quick response, DM me on [Instagram](https://www.instagram.com/jian.dionaldo/) or [LinkedIn](https://www.linkedin.com/in/jianefrel-dionaldo/).<br>
 For professional inquires, you can reach out via email at [jianefreldionaldo988@gmail.com](mailto:jianefreldionaldo988@gmail.com) 
 
 ---
