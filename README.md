@@ -8,8 +8,8 @@ I'm a 21 years-old Web developer based on the Philippines.
 
 ### ✅ Current Endeavors
 I'm an IT Student, Full Stack MERN Developer. 
-- I'm enrolled in the prestigiuos **The Complete 2024 Web Development Bootcamp** in Udemy.
-- I'm enrolled in the prestigious **React, NodeJS, Express & MongoDB - The MERN Fullstack Guide** in Udemy.
+- I'm enrolled in the prestigiuos [**The Complete 2024 Web Development Bootcamp**](https://www.udemy.com/course/the-complete-web-development-bootcamp/?kw=The+complete+2024&src=sac&couponCode=ST10MT8624) in Udemy.
+- I'm enrolled in the prestigious [**React, NodeJS, Express & MongoDB - The MERN Fullstack Guide**](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/?kw=React%2C+NodeJS%2C+Express+%26+MongoDB+-+The+MERN+Fullstack+Guide&src=sac&couponCode=ST10MT8624) in Udemy.
 - I am committed to mastering not only the fundamentals taught in my academic curriculum but also gaining practical insights and hands-on experience from the dynamic world of web development.
 - I'm exploring different tools, software applications and libraries to enhance my skills set. 
  
