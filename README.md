@@ -1,6 +1,4 @@
 # 👋 Hey, I'm Jianefrel
-<!--<a href="https://app.daily.dev/jianefrel"><img src="https://api.daily.dev/devcards/v2/ZZLpdij3xSX9bASldSl3o.png?type=default&r=sjb" width="356" alt="JianefrelDionaldo's Dev Card"/></a> -->
-
 
 I'm a 21 years-old Web developer based on the Philippines.
 - My Porfolio website is still underdevelopment.
@@ -23,8 +21,16 @@ I'm an BSIT Student, Full Stack MERN Developer.
 
 ### 📫 Contact
 
+For quick response and professional inquires, can you react out on these platforms:
+
+<!--
 For a quick response, DM me on [Instagram](https://www.instagram.com/jian.dionaldo/) or [LinkedIn](https://www.linkedin.com/in/jianefrel-dionaldo/).<br>
-For professional inquires, you can reach out via email at [jianefreldionaldo988@gmail.com](mailto:jianefreldionaldo988@gmail.com) 
+For professional inquires, you can reach out via email:
+-->
+
+<a href="https://www.linkedin.com/in/jianefrel-dionaldo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/jian.dionaldo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+<a href="mailto:jianefreldionaldo988@gmail.com"><img src="https://img.shields.io/badge/Email-%23050C9C.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ---
 
