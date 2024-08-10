@@ -60,9 +60,8 @@ For professional inquires, you can reach out via email at [jianefreldionaldo988@
  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL Logo" /></a>
  <img width="12" />
  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40" alt="Firebase Logo" /></a>
-<!--  <br clear="both">
- <br clear="both"> -->
- <img width="12" />
+ <br clear="both">
+ <br clear="both">
  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker Logo" /></a>
  <img width="12" />
  <a href="https://webpack.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" height="40" alt="Webpack logo" /></a>
