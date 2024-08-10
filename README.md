@@ -21,7 +21,7 @@ I'm an BSIT Student, Full Stack MERN Developer.
 
 ### 📫 Contact
 
-For quick response and professional inquires, can you react out on these platforms:
+For quick responses and professional inquiries, you can reach out via these platforms:
 
 <!--
 For a quick response, DM me on [Instagram](https://www.instagram.com/jian.dionaldo/) or [LinkedIn](https://www.linkedin.com/in/jianefrel-dionaldo/).<br>
