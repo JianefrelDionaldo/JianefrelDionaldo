@@ -33,7 +33,7 @@ For professional inquires, you can reach out via email at [jianefreldionaldo988@
 <br clear="both">
 
 <div align="left">
- <a target="blank" href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python Logo" /></a>
+ <a href="https://www.python.org/" target="_blank" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python Logo" /></a>
  <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo" />
  <img width="12" />
