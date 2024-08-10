@@ -30,19 +30,49 @@ For professional inquires, you can reach out via email at [jianefreldionaldo988@
 
 ### 💻  My Tech Stack
 
+<br clear="both">
+
+<div align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM Logoa" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" height="40" alt="Jquery Logo" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.Js Logo" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="Express.Js Logo" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React.Js Logo"/>
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB Logo" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL Logo" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL Logo" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker Logo" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" height="40" alt="Webpack logo" />
+ <img width="12" />
+</div>
+
+<!--
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<!-- ![JQuery](https://img.shields.io/badge/jquery-%23131B28.svg?style=for-the-badge&logo=jquery&logoColor=%2378cff5) -->
+![JQuery](https://img.shields.io/badge/jquery-%23131B28.svg?style=for-the-badge&logo=jquery&logoColor=%2378cff5)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node JS](https://img.shields.io/badge/Node%20JS-black?style=for-the-badge&logo=node.js&logoColor=green)
+![NPM](https://img.shields.io/badge/NPM-%23CC3534?style=for-the-badge&logo=npm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=MySql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-6527BE.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%232b3137.svg?style=for-the-badge&logo=git&logoColor=%23F1502F)
 ![Github](https://img.shields.io/badge/github-%2324292d.svg?style=for-the-badge&logo=github&logoColor=%23ffffff)
 
+-->
 
 <!--
 ---
