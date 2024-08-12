@@ -41,7 +41,7 @@ For professional inquires, you can reach out via email:
 
 <p align="left">
   <a href="#"> <!-- https://skillicons.dev -->
-    <img src="https://skillicons.dev/icons?i=bootstrap,git,kubernetes,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=javascript,py,html,css,bootstrap,tailwind,npm,react,redux,express,nodejs,nextjs,mongodb,mysql,postgres,firebase,jquery,git,github,gcp,postman,webpack,docker,kubernetes,jenkins,vercel,materialui,figma,md,vscode&theme=dark" />
   </a>
 </p>
 
