@@ -23,14 +23,15 @@ I'm an BSIT Student, Full Stack MERN Developer.
 
 For quick responses and professional inquiries, you can reach out via these platforms:
 
+<a href="https://www.linkedin.com/in/jianefrel-dionaldo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/jian.dionaldo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+<a href="mailto:jianefreldionaldo988@gmail.com"><img src="https://img.shields.io/badge/Email-%23050C9C.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 <!--
 For a quick response, DM me on [Instagram](https://www.instagram.com/jian.dionaldo/) or [LinkedIn](https://www.linkedin.com/in/jianefrel-dionaldo/).<br>
 For professional inquires, you can reach out via email:
 -->
 
-<a href="https://www.linkedin.com/in/jianefrel-dionaldo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/jian.dionaldo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
-<a href="mailto:jianefreldionaldo988@gmail.com"><img src="https://img.shields.io/badge/Email-%23050C9C.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ---
 
@@ -38,6 +39,13 @@ For professional inquires, you can reach out via email:
 
 <br clear="both">
 
+<p align="left">
+  <a href="#"> <!-- https://skillicons.dev -->
+    <img src="https://skillicons.dev/icons?i=bootstrap,git,kubernetes,docker&theme=dark" />
+  </a>
+</p>
+
+<!--
 <div align="left">
  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python Logo" /></a>
  <img width="12" />
@@ -66,8 +74,10 @@ For professional inquires, you can reach out via email:
  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL Logo" /></a>
  <img width="12" />
  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40" alt="Firebase Logo" /></a>
+ -->
 <!--  <br clear="both">
  <br clear="both"> -->
+ <!--
  <img width="12" />
  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker Logo" /></a>
  <img width="12" />
@@ -97,6 +107,7 @@ For professional inquires, you can reach out via email:
  <img width="12" />
  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="Figma Logo" /></a>
 </div>
+-->
 
 <!--
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
