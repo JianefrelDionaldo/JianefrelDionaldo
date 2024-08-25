@@ -40,8 +40,8 @@ For professional inquires, you can reach out via email:
 <br clear="both">
 
 <p align="left">
-  <a href="#"> <!-- https://skillicons.dev -->
-    <img src="https://skillicons.dev/icons?i=javascript,py,html,css,bootstrap,tailwind,npm,react,redux,express,nodejs,nextjs,mongodb,mysql,postgres,firebase,jquery,git,github,gcp,postman,webpack,docker,kubernetes,jenkins,vercel,materialui,figma,md,vscode&theme=dark" />
+  <a href="https://skillicons.dev" target="_blank"> <!-- https://skillicons.dev -->
+    <img src="https://skillicons.dev/icons?i=javascript,py,html,css,bootstrap,tailwind,npm,react,redux,express,nodejs,mongodb,mysql,postgres,firebase,jquery,git,github,postman,docker,vercel,materialui,figma,md,vscode&theme=dark" />
   </a>
 </p>
 
