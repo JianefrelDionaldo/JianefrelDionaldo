@@ -5,7 +5,7 @@ I'm a 21 years-old Web developer based on the Philippines.
 - Stay updated with my socials [Daily.dev](https://app.daily.dev/jianefrel), [Instagram](https://www.instagram.com/jn_devz/), [X](https://x.com/Jianefrel_D) and [LinkedIn](https://www.linkedin.com/in/jianefrel-dionaldo/).
 
 ### ✅ Current Endeavors
-I'm an BSIT Student, Full Stack MERN Developer. 
+I'm an BSIT Student, a passionate **Full Stack Developer** | **MERN Stack Developer**. 
 - I'm enrolled in the prestigiuos [**The Complete 2024 Web Development Bootcamp**](https://www.udemy.com/certificate/UC-5d9f281a-7a29-4c17-913b-f371c34a4ca9/) in Udemy.
 - I'm enrolled in the prestigious [**React, NodeJS, Express & MongoDB - The MERN Fullstack Guide**](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/?kw=React%2C+NodeJS%2C+Express+%26+MongoDB+-+The+MERN+Fullstack+Guide&src=sac&couponCode=ST10MT8624) in Udemy.
 - I am committed to mastering not only the fundamentals taught in my academic curriculum but also gaining practical insights and hands-on experience from the dynamic world of web development.
