@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jianefrel &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=jianefreldionaldo&label=Profile%20views&color=0e75b6&style=flat)
+# 👋 Hey, I'm Jianefrel!
 
 - I'm a 21 years-old Web developer based on the Philippines.
 - My Porfolio website is still underdevelopment.
@@ -34,21 +34,17 @@
 </p>
 
 <!--
----
+
 ### 🚀  Top Lang
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JianefrelDionaldo&layout=compact&theme=light) <br>
--->
 
-<!--
----
 ### 📊  Github Metrics
   <img src="https://github-readme-stats.vercel.app/api?username=JianefrelDionaldo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Err-Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JianefrelDionaldo&theme=tokyonight&hide_border=true" alt="Err-stats"/> <br>
 
----
-
 ### 👨‍💻  Profile Visits:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jianefreldionaldo&label=Profile%20views&color=0e75b6&style=flat)
+
 -->
