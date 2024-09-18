@@ -6,9 +6,9 @@
 
 ### ✅ Current Endeavors
 - I'm an BSIT Student, a passionate **Full Stack Developer** | **MERN Stack Developer**. 
-- I'm enrolled in the prestigiuos [**The Complete 2024 Web Development Bootcamp**](https://www.udemy.com/certificate/UC-5d9f281a-7a29-4c17-913b-f371c34a4ca9/) in Udemy.
-- I'm enrolled in the prestigious [**React, NodeJS, Express & MongoDB - The MERN Fullstack Guide**](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/?kw=React%2C+NodeJS%2C+Express+%26+MongoDB+-+The+MERN+Fullstack+Guide&src=sac&couponCode=ST10MT8624) in Udemy.
-- I'm planning to enroll in the prestigious [**IBM Full Stack Software Developer Professional Certificate**](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer) in Coursera
+- I completely finished [**The Complete 2024 Web Development Bootcamp**](https://www.udemy.com/certificate/UC-5d9f281a-7a29-4c17-913b-f371c34a4ca9/) in Udemy.
+- I'm enrolled in the [**React, NodeJS, Express & MongoDB - The MERN Fullstack Guide**](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/?kw=React%2C+NodeJS%2C+Express+%26+MongoDB+-+The+MERN+Fullstack+Guide&src=sac&couponCode=ST10MT8624) in Udemy.
+- I'm planning to enroll in the [**IBM Full Stack Software Developer Professional Certificate**](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer) in Coursera
 - I'm exploring different tools, software applications and libraries to enhance my skills set. 
  
 --- 
