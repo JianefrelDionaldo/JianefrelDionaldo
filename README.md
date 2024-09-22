@@ -2,7 +2,7 @@
 
 - I'm a 21 years-old Web developer based on the Philippines.
 - My Porfolio website is still underdevelopment.
-- Connect me with my socials [Instagram](https://www.instagram.com/jn_devz/) and [LinkedIn](https://www.linkedin.com/in/jianefrel-dionaldo/).
+- Connect me with my socials [Instagram](https://www.instagram.com/jian.dionaldo/) and [LinkedIn](https://www.linkedin.com/in/jianefrel-dionaldo/).
 
 ### ✅ My Endeavors
 - I'm an BSIT Student, a passionate **Full Stack Developer** | **MERN Stack Developer**. 
