@@ -1,11 +1,11 @@
-# 👋 Hey, I'm Jianefrel!
+it's# 👋 Hey, I'm Jianefrel!
 
 - I'm a 21 years-old Web developer based on the Philippines.
 - My Porfolio website is still underdevelopment.
 - Connect me with my socials [Instagram](https://www.instagram.com/jian.dionaldo/) and [LinkedIn](https://www.linkedin.com/in/jianefrel-dionaldo/).
 
 ### ✅ My Endeavors
-- I'm a BSIT Student, a passionate **Full Stack Developer** | **MERN Stack Developer**. 
+- I'm a passionate on learning **Full Stack Web Development** as a BSIT Student.
 - I finished the course of [**The Complete 2024 Web Development Bootcamp**](https://www.udemy.com/certificate/UC-5d9f281a-7a29-4c17-913b-f371c34a4ca9/) in Udemy.
 - I'm still taking the [**React, NodeJS, Express & MongoDB - The MERN Fullstack Guide**](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/?kw=React%2C+NodeJS%2C+Express+%26+MongoDB+-+The+MERN+Fullstack+Guide&src=sac&couponCode=ST10MT8624) in Udemy.
 - I'm planning to enroll in the course of [**IBM Full-Stack JavaScript Developer**](https://www.coursera.org/professional-certificates/ibm-full-stack-javascript-developer) in Coursera.
