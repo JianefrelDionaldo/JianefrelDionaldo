@@ -29,7 +29,7 @@ it's# 👋 Hey, I'm Jianefrel!
 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank"> <!-- https://skillicons.dev -->
-    <img src="https://skillicons.dev/icons?i=javascript,py,html,css,bootstrap,tailwind,npm,react,redux,express,nodejs,mongodb,mysql,postgres,firebase,jquery,git,github,postman,docker,vercel,materialui,figma,md,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,bootstrap,tailwind,npm,react,redux,express,nodejs,mongodb,mysql,postgres,git,github,postman,docker,vercel,figma,md,vscode&theme=dark" />
   </a>
 </p>
 
