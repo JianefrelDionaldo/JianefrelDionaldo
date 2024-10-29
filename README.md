@@ -6,8 +6,8 @@
 
 ### ✅ My Endeavors
 - I'm an BSIT Student, a passionate **Full Stack Developer** | **MERN Stack Developer**. 
-- I successfully completed the course of [**The Complete 2024 Web Development Bootcamp**](https://www.udemy.com/certificate/UC-5d9f281a-7a29-4c17-913b-f371c34a4ca9/) in Udemy.
-- I'm was studying the [**React, NodeJS, Express & MongoDB - The MERN Fullstack Guide**](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/?kw=React%2C+NodeJS%2C+Express+%26+MongoDB+-+The+MERN+Fullstack+Guide&src=sac&couponCode=ST10MT8624) in Udemy.
+- I finished the course of [**The Complete 2024 Web Development Bootcamp**](https://www.udemy.com/certificate/UC-5d9f281a-7a29-4c17-913b-f371c34a4ca9/) in Udemy.
+- I'm still taking the [**React, NodeJS, Express & MongoDB - The MERN Fullstack Guide**](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/?kw=React%2C+NodeJS%2C+Express+%26+MongoDB+-+The+MERN+Fullstack+Guide&src=sac&couponCode=ST10MT8624) in Udemy.
 - I'm planning to enroll in the course of [**IBM Full-Stack JavaScript Developer**](https://www.coursera.org/professional-certificates/ibm-full-stack-javascript-developer) in Coursera.
 - I'm exploring different tools, software applications and libraries to enhance my skills set. 
  
