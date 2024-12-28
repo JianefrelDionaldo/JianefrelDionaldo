@@ -24,11 +24,28 @@
 ### 💻  My Tech Stack
 
 <br clear="both">
+<!-- <img src="https://skillicons.dev/icons?i=javascript,py,html,css,bootstrap,tailwind,npm,react,redux,express,nodejs,mongodb,mysql,postgres,git,github,postman,docker,vercel,figma,md,vscode&theme=dark" /> -->
+
 
 <p align="left">
-  <a href="https://skillicons.dev" target="_blank"> <!-- https://skillicons.dev -->
-    <img src="https://skillicons.dev/icons?i=javascript,py,html,css,bootstrap,tailwind,npm,react,redux,express,nodejs,mongodb,mysql,postgres,git,github,postman,docker,vercel,figma,md,vscode&theme=dark" />
-  </a>
+  <a href="https://www.javascripttutorial.net" target="_blank"">
+    <img src="https://skillicons.dev/icons?i=javascript&theme=dark" />
+  </a> 
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py&theme=dark" />
+  </a> &nbsp;
+  <a href="https://html.spec.whatwg.org" target="_blank"> <!-- https://skillicons.dev -->
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" />
+  </a> &nbsp;
+  <a href="https://www.w3.org/Style/CSS" target="_blank"> <!-- https://skillicons.dev -->
+    <img src="https://skillicons.dev/icons?i=css&theme=dark" />
+  </a> &nbsp;
+  <a href="https://getbootstrap.com" target="_blank"> <!-- https://skillicons.dev -->
+    <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" />
+  </a> &nbsp;
+  <a href="https://tailwindcss.com" target="_blank" > <!-- https://skillicons.dev -->
+    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
+  </a> &nbsp;
 </p>
 
 <!--
