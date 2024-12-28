@@ -1,8 +1,7 @@
 # 👋 Hey, I'm Jianefrel!
 
-- Full Stack Web Dveloper.
-- Based on the Philippines.
-- My Porfolio website is still underdevelopment.
+- My Porfolio is still underdevelopment.
+- I'm a Full Stack Web Dveloper based on the Philippines.
 
 ---
 
@@ -14,7 +13,7 @@
 
 ### 📫 Contact
 
-- For quick responses and inquiry, you can reach out via these platforms: <br />
+- For quick response and inquiry, you can reach out via these platforms: <br />
 
 <a href="https://www.linkedin.com/in/jianefreldionaldo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
 <a href="https://www.instagram.com/jnf.dv.exec/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp;
