@@ -2,7 +2,7 @@
 
 - I'm a passionate Full Stack Web Dveloper based on the Philippines.
 - My Porfolio website is still underdevelopment.
-- Connect me with my socials [Instagram](https://www.instagram.com/jian.dionaldo/) and [LinkedIn](https://www.linkedin.com/in/jianefrel-dionaldo/).
+- Connect me with my socials [Instagram](https://www.instagram.com/jian.dionaldo/) and [LinkedIn](https://www.linkedin.com/in/jianefreldionaldo/).
 
 ### ✅ My Endeavors
 - Currently, I'm a 3rd Yr IT student.
