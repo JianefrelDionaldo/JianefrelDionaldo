@@ -1,13 +1,14 @@
 # 👋 Hey, I'm Jianefrel!
 
 - Full Stack Web Dveloper.
+- Based on the Philippines.
 - My Porfolio website is still underdevelopment.
 
 ---
 
 ### ✅ My Endeavors
-- Currently, I'm a 3rd Yr IT student.
-- I'm exploring different tools, and libraries. 
+- I'm exploring different tools, and libraries.
+- DSA Challenges to excel problem solving skills.
 
 --- 
 
