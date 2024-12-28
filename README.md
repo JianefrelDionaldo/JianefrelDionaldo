@@ -8,7 +8,6 @@
 - Currently, I'm a 3rd Yr IT student.
 - I finished the course of [**The Complete 2024 Web Development Bootcamp**](https://www.udemy.com/certificate/UC-5d9f281a-7a29-4c17-913b-f371c34a4ca9/) in Udemy.
 - I finished the course of [**React, NodeJS, Express & MongoDB - The MERN Fullstack Guide**](https://www.udemy.com/certificate/UC-76450df7-9120-4029-8e0e-5558447816c4/) in Udemy.
-- I'm planning to enroll in the course of [**IBM Full-Stack JavaScript Developer**](https://www.coursera.org/professional-certificates/ibm-full-stack-javascript-developer) in Coursera.
 - I'm exploring different tools, software applications and libraries to enhance my skills set. 
  
 --- 
