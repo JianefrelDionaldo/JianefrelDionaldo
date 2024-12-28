@@ -26,8 +26,7 @@
 <br clear="both">
 <!-- <img src="https://skillicons.dev/icons?i=javascript,py,html,css,bootstrap,tailwind,npm,react,redux,express,nodejs,mongodb,mysql,postgres,git,github,postman,docker,vercel,figma,md,vscode&theme=dark" /> -->
 
-<div style="text-decoration: none;">
-  <p align="left">
+<div align="left">
     <a href="https://www.javascripttutorial.net" >
       <img src="https://skillicons.dev/icons?i=javascript&theme=dark" />
     </a> &nbsp;
@@ -49,7 +48,6 @@
     <a href="https://www.npmjs.com">
       <img src="https://skillicons.dev/icons?i=npm&theme=dark" />
     </a> &nbsp;
-  </p>
 </div>
 
 <!--
