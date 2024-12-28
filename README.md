@@ -28,25 +28,25 @@
 
 <div style="text-decoration: none;">
   <p align="left">
-    <a href="https://www.javascripttutorial.net">
+    <a href="https://www.javascripttutorial.net" >
       <img src="https://skillicons.dev/icons?i=javascript&theme=dark" />
     </a> &nbsp;
-    <a href="https://www.python.org" target="_blank">
+    <a href="https://www.python.org" >
       <img src="https://skillicons.dev/icons?i=py&theme=dark" />
     </a> &nbsp;
-    <a href="https://html.spec.whatwg.org" target="_blank">
+    <a href="https://html.spec.whatwg.org" >
       <img src="https://skillicons.dev/icons?i=html&theme=dark" />
     </a> &nbsp;
-    <a href="https://www.w3.org/Style/CSS" target="_blank">
+    <a href="https://www.w3.org/Style/CSS" >
       <img src="https://skillicons.dev/icons?i=css&theme=dark" />
     </a> &nbsp;
-    <a href="https://getbootstrap.com" target="_blank">
+    <a href="https://getbootstrap.com" style="text-decoration: none;" >
       <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" />
     </a> &nbsp;
-    <a href="https://tailwindcss.com" target="_blank" >
+    <a href="https://tailwindcss.com" >
       <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
     </a> &nbsp;
-    <a href="https://www.npmjs.com" target="_blank" >
+    <a href="https://www.npmjs.com">
       <img src="https://skillicons.dev/icons?i=npm&theme=dark" />
     </a> &nbsp;
   </p>
