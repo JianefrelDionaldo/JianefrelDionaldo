@@ -1,13 +1,14 @@
 # 👋 Hey, I'm Jianefrel!
 
-- I'm a passionate Full Stack Web Dveloper based on the Philippines.
+- Full Stack Web Dveloper.
 - My Porfolio website is still underdevelopment.
-- Connect me with my socials [Instagram](https://www.instagram.com/jnf.dv.exec/) and [LinkedIn](https://www.linkedin.com/in/jianefreldionaldo/).
+
+---
 
 ### ✅ My Endeavors
 - Currently, I'm a 3rd Yr IT student.
-- I'm exploring different tools, software applications and libraries to enhance my skills set. 
- 
+- I'm exploring different tools, and libraries. 
+
 --- 
 
 ### 📫 Contact
