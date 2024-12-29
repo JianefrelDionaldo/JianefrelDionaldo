@@ -1,27 +1,21 @@
 # 👋 Hey, I'm Jianefrel!
 
 - My Porfolio is still underdevelopment.
-- I'm a Full Stack Web Dveloper based on the Philippines.
+- I'm a Full Stack Web Dveloper based on the Philippines.<br />
 
----
-
-### ✅ My Endeavors
+## ✅ My Endeavors
 - I'm exploring different tools, and libraries.
-- DSA Challenges to excel problem solving skills.
+- DSA Challenges to excel problem solving skills.<br />
 
---- 
-
-### 📫 Contact
-
+## 📫 Contact
 - For quick response and inquiry, you can reach out via these platforms: <br />
 
+
 <a href="https://www.linkedin.com/in/jianefreldionaldo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
-<a href="https://www.instagram.com/jnf.dv.exec/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp;
-<a href="mailto:jianefreldionaldo988@gmail.com"><img src="https://img.shields.io/badge/Email-%23050C9C.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/jnf.dv.exec/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp; 
+<a href="mailto:jianefreldionaldo988@gmail.com"><img src="https://img.shields.io/badge/Email-%23050C9C.svg?style=for-the-badge&logo=gmail&logoColor=white"></a><br />
 
----
-
-### 💻  My Tech Stack
+## 💻  My Tech Stack
 
 <br clear="both">
 
