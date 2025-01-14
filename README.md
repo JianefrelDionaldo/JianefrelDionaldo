@@ -11,14 +11,11 @@
 ### ☑️ Contact
 - For quick response and inquiry, you can reach out via these platforms:
 
-
 <a href="https://www.linkedin.com/in/jianefreldionaldo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
 <a href="https://www.instagram.com/jnf.dv.exec/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp; 
 <a href="mailto:jianefreldionaldo988@gmail.com"><img src="https://img.shields.io/badge/Email-%23050C9C.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ### 💻  My Tech Stack
-
-<!-- <br clear="both"> -->
 
 <a href="https://skillicons.dev/">
     <img src="https://skillicons.dev/icons?i=py,javascript,ts,tailwind,npm,react,redux,express,nodejs,mongodb,gcp,postgres,git,github,postman,docker,jest,figma,md,bash,vscode,discord&perline=11&theme=dark" />
