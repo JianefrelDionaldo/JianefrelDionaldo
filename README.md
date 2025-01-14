@@ -1,26 +1,27 @@
-# 👋 Hey, I'm Jianefrel!
+### 👋 Hey, I'm Jianefrel!
 
 - My Porfolio is still underdevelopment.
-- I'm a Full Stack Web Dveloper based on the Philippines.<br />
+- I'm a Full Stack Web Dveloper based on the Philippines.
 
-## ✅ My Endeavors
+### 🎯 My Endeavors
+- Project Based Learning
 - I'm exploring different tools, and libraries.
-- DSA Challenges to excel problem solving skills.<br />
+- DSA Challenges to excel problem solving skills.
 
-## 📫 Contact
-- For quick response and inquiry, you can reach out via these platforms: <br />
+### ☑️ Contact
+- For quick response and inquiry, you can reach out via these platforms:
 
 
 <a href="https://www.linkedin.com/in/jianefreldionaldo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
 <a href="https://www.instagram.com/jnf.dv.exec/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp; 
-<a href="mailto:jianefreldionaldo988@gmail.com"><img src="https://img.shields.io/badge/Email-%23050C9C.svg?style=for-the-badge&logo=gmail&logoColor=white"></a><br />
+<a href="mailto:jianefreldionaldo988@gmail.com"><img src="https://img.shields.io/badge/Email-%23050C9C.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-## 💻  My Tech Stack
+### 💻  My Tech Stack
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=py,javascript,ts,tailwind,npm,react,redux,express,nodejs,mongodb,mysql,postgres,git,github,postman,docker,jest,vercel,figma,md,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,javascript,ts,tailwind,npm,react,redux,express,nodejs,mongodb,gcp,postgres,git,github,postman,docker,jest,figma,md,vscode&perline=10&theme=dark" />
 </a>
 
 <!--
