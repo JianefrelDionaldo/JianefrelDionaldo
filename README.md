@@ -1,4 +1,4 @@
-### 👋🏻 Hey, I'm Jianefrel <img src="./verify.png" height="16" width="16" >
+### 👋🏻 Hey, I'm <a href="https://www.linkedin.com/in/jianefreldionaldo/" target="_blank">Jianefrel</a> <img src="./verified.png" height="16" width="16" >
 
 - My Porfolio is still underdevelopment.
 - I'm a Full Stack Web Dveloper based on the Philippines.
