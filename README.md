@@ -21,7 +21,7 @@
 <!-- <br clear="both"> -->
 
 <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=py,javascript,ts,tailwind,npm,react,redux,express,nodejs,mongodb,gcp,postgres,git,github,postman,docker,jest,figma,md,vscode&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,javascript,ts,tailwind,npm,react,redux,express,nodejs,mongodb,gcp,postgres,git,github,postman,docker,jest,figma,md,bash,vscode,discord&perline=11&theme=dark" />
 </a>
 
 <!--
