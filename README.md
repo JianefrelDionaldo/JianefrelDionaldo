@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/jianefreldionaldo/" align="center" target="_blank"><img src="./Think-outside-the-box.png" width="100%" height="60%" alt="Cover-Photo"></a>
 
-### 👋🏻 Hey, I'm <a href="https://www.linkedin.com/in/jianefreldionaldo/" target="_blank">Jianefrel <img src="./verified.png" height="16" width="16" style="pointer-events: none; user-select: none; cursor: default;" alt="Verified-img Acknowledgment: The intended purpose of this image is not for subscribed subscriptions for verified accounts; it's just for the aesthetic design of my profile, which I downloaded from this site: https://www.flaticon.com/free-icons/verified." ></a>
+### 👋🏻 Hey, I'm <a href="https://www.linkedin.com/in/jianefreldionaldo/" target="_blank">Jianefrel <img src="./verified.png" height="16" width="16" style="pointer-events: none; user-select: none; cursor: default;" alt="Verified-img Acknowledgment: The intended purpose of this image is not for subscribed subscriptions for verified accounts; it's just for the aesthetic design of my profile, which I downloaded from this site: https://www.flaticon.com/free-icons/verified." ></a> <img src="https://komarev.com/ghpvc/?username=jianefreldionaldo&label=Profile%20views&color=0e75b6&style=flat" >
 
 - My Porfolio is still underdevelopment.
 - I'm a Full Stack Web Dveloper based on the Philippines.
