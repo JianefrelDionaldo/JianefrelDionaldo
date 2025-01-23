@@ -2,16 +2,24 @@
 
 ### 👋🏻 Hey, I'm <a href="https://www.linkedin.com/in/jianefreldionaldo/" target="_blank">Jianefrel <img src="./verified.png" height="16" width="16" style="pointer-events: none; user-select: none; cursor: default;" alt="Verified-img Acknowledgment: The intended purpose of this image is not for subscribed subscriptions for verified accounts; it's just for the aesthetic design of my profile, which I downloaded from this site: https://www.flaticon.com/free-icons/verified." ></a>
 
-- My Porfolio is still underdevelopment.
-- I'm a Full Stack Web Dveloper based on the Philippines.
+- 🌱 Growth-Driven Full-Stack Developer
+- 💻 Web Developer based on the Philippines.
+- 🛠️ My Portfolio is still under development (stay tuned, it's coming soon!)
+
+### 😅 Fun Facts
+- 🤔 Sometimes I'm an Imposter Syndrome Survivor. Uhm, sometimes not?
+- 🤭 I have a special talent for misplacing my phone... while holding it.
+- 😂 Sometimes, I laugh so loud at funny videos, anime, and movie scenes that it annoys the people around me.
 
 ### 🎯 My Endeavors
-- Project Based Learning
-- I'm exploring different tools, and libraries.
-- DSA Challenges to excel problem solving skills.
+- 🤖 Project Based Learning
+- ⚙️ I'm exploring different tools, and libraries.
+- 🧠 DSA Challenges to excel problem solving skills.
+- 💡 Currently diving deep into MERN stack and TypeScript
+- 📈 Passionate about continuous learning and improving my skills
 
 ### ☑️ Contact
-- For quick response and inquiry, you can reach out via these platforms:
+- 📩 For quick response and inquiry, you can reach out via these platforms:
 
 <a href="https://www.linkedin.com/in/jianefreldionaldo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
 <a href="https://www.instagram.com/jnf.dv.exec/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp; 
