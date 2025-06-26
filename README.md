@@ -24,7 +24,7 @@
 - 📩 For quick response and inquiry, you can reach out via these platforms:
 
 <a href="mailto:dionaldojian01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
-<a href="https://www.instagram.com/jf.code404.ts/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp; 
+<a href="https://www.instagram.com/jf.kyo_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp; 
 <a href="https://discordapp.com/users/937665768781406239" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/jianefreldionaldo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -34,7 +34,6 @@
     <img src="https://skillicons.dev/icons?i=py,javascript,ts,tailwind,npm,react,redux,express,nodejs,mongodb,gcp,postgres,git,github,postman,docker,jest,figma,md,bash,vscode,discord&perline=11&theme=dark" />
 </a>
 
-<!--
 
 ### 🚀  Top Lang
 
@@ -42,11 +41,10 @@
 
 ### 📊  Github Metrics
   <img src="https://github-readme-stats.vercel.app/api?username=JianefrelDionaldo&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Err-Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JianefrelDionaldo&theme=tokyonight&hide_border=true" alt="Err-stats"/> <br>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=JianefrelDionaldo&theme=tokyonight&hide_border=true" alt="Err-stats"/> <br> -->
 
 ### 👨‍💻  Profile Visits:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jianefreldionaldo&label=Profile%20views&color=0e75b6&style=flat)
 
--->
 
