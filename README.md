@@ -34,13 +34,14 @@
     <img src="https://skillicons.dev/icons?i=py,javascript,ts,tailwind,npm,react,redux,express,nodejs,mongodb,gcp,postgres,git,github,postman,docker,jest,figma,md,bash,vscode,discord&perline=11&theme=dark" />
 </a>
 
+<!--
+
 ### 📊 GitHub Metrics
 
 | Stats | Streak |
 |-------|--------|
 | <img src="https://github-readme-stats.vercel.app/api?username=JianefrelDionaldo&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/> | <img src="https://github-readme-streak-stats-ten-rust.vercel.app?user=JianefrelDionaldo&theme=midnight-purple&hide_border=true" alt="GitHub Streak" height="150"/> |
 
-<!--
  
 ### 🚀  Top Lang
 
