@@ -11,7 +11,7 @@
 - 🤔 Sometimes I'm an Imposter Syndrome Survivor. Uhm, sometimes not?
 - 🤭 I have a special talent for misplacing my phone... while holding it.
 - 😂 Sometimes, I laugh so loud at funny videos, anime, and movie scenes that it annoys the people around me.
--->
+
 
 ### 🎯 My Endeavors
 - 🤖 Project Based Learning
@@ -33,6 +33,8 @@
 <a href="https://github.com/JianefrelDionaldo#--my-tech-stack">
     <img src="https://skillicons.dev/icons?i=py,javascript,ts,tailwind,npm,react,redux,express,nodejs,mongodb,gcp,postgres,git,github,postman,docker,jest,figma,md,bash,vscode,discord&perline=11&theme=dark" />
 </a>
+
+-->
 
 <!--
 
