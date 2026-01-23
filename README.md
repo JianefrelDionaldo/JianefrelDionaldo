@@ -6,12 +6,13 @@
 - 💻 Web Developer based on the Philippines.
 - 🛠️ My Portfolio is still under development (stay tuned, it's coming soon!)
 
+
 <!--
 ### 😅 Fun Facts
 - 🤔 Sometimes I'm an Imposter Syndrome Survivor. Uhm, sometimes not?
 - 🤭 I have a special talent for misplacing my phone... while holding it.
 - 😂 Sometimes, I laugh so loud at funny videos, anime, and movie scenes that it annoys the people around me.
-
+-->
 
 ### 🎯 My Endeavors
 - 🤖 Project Based Learning
@@ -19,6 +20,8 @@
 - 🧠 DSA Challenges to excel problem solving skills.
 - 💡 Currently diving deep into MERN stack and TypeScript
 - 📈 Passionate about continuous learning and improving my skills
+
+<!--
 
 ### ☑️ Keep in Touch
 - 📩 For quick response and inquiry, you can reach out via these platforms:
