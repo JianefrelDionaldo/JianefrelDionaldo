@@ -4,8 +4,6 @@
 - ⚙️ Building a strong foundation in scalable systems, automation, and cloud-native principles
 - 🚧 Portfolio in progress — actively shipping learning projects (stay tuned)
 
----
-
 ### 🌱 About Me
 
 | _"Start simple. Stay consistent. Improve every day."_
@@ -13,8 +11,6 @@
 I am currently developing my skills in **cloud computing and DevOps practices**, focusing on how modern applications are deployed, automated, and maintained in real-world environments.
 
 I’m still early in my journey — but I approach it with discipline, curiosity, and a strong engineering mindset centered on **reliability, automation, and continuous improvement**.
-
----
 
 ### 🎯 My Endeavors
 - 🤖 Exploring **Cloud Fundamentals (AWS & Azure Core Services)**
@@ -25,8 +21,6 @@ I’m still early in my journey — but I approach it with discipline, curiosity
 - 🛠️ Strong foundation in **Git & GitHub**
 - 📡 Studying system reliability, deployment flow, and scalability basics
 - 📈 Passionate about continuous learning and improving my skills
-
----
 
 ### ☑️ Keep in Touch
 
