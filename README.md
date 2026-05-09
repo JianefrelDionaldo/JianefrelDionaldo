@@ -1,4 +1,4 @@
-### 👋🏻 Hey, I'm Jian
+### 👋🏻 Hey, I'm Jian!
 
 - 💻 **Aspiring Cloud Engineer**
 - ⚙️ Building a strong foundation in scalable systems, automation, and cloud-native principles
