@@ -1,23 +1,32 @@
 ### 👋🏻 Hey, I'm Jian
 
 - 💻 **Aspiring Cloud Engineer**
-- 🛠️ My Portfolio is still under development (stay tuned, it's coming soon!)
+- ⚙️ Building a strong foundation in scalable systems, automation, and cloud-native principles
+- 🚧 Portfolio in progress — actively shipping learning projects (stay tuned)
+
+---
 
 ### 🌱 About Me
 
 | _"Start simple. Stay consistent. Improve every day."_
 
-I'm focused on learning how to build **reliable and automated systems**.
-Still early in DevOps Journey, but actively working on the fundamentals.
+I am currently developing my skills in **cloud computing and DevOps practices**, focusing on how modern applications are deployed, automated, and maintained in real-world environments.
+
+I’m still early in my journey — but I approach it with discipline, curiosity, and a strong engineering mindset centered on **reliability, automation, and continuous improvement**.
+
+---
 
 ### 🎯 My Endeavors
-- 🤖 Project Based Learning
-- ⚙️ Intermediate **Docker** usage
-- 🔧 Intro to **CI/CD** (GitHub Actions)
-- ☁️ Exploring **AWS Fundamentals**
-- 💡 Learn **Infrastructure as Code** concepts
+- 🤖 Exploring **Cloud Fundamentals (AWS & Azure Core Services)**
+- ⚙️ Hands-on exprience with **Docker & Containerization**
+- 🔧 Intro to **CI/CD pipelines (GitHub Actions)**
+- 💡 Understanding **Infrastructure as Code (basic Terraform concepts**
+- 🔧 Strengthening **Linux & Git workflows**
 - 🛠️ Strong foundation in **Git & GitHub**
+- 📡 Studying system reliability, deployment flow, and scalability basics
 - 📈 Passionate about continuous learning and improving my skills
+
+---
 
 ### ☑️ Keep in Touch
 
