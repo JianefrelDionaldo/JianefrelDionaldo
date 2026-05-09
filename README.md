@@ -1,6 +1,6 @@
 ### 👋🏻 Hey, I'm Jian
 
-- 💻 **Aspiring DevOps Engineer**
+- 💻 **Aspiring Cloud Engineer**
 - 🛠️ My Portfolio is still under development (stay tuned, it's coming soon!)
 
 ### 🌱 About Me
