@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Jian
+## Hi, I'm Jian 👋
 
-💻 Full-Stack Web Developer | L2 Application Support | UI / UX Design | Manual Tester <br>
+💻 Full-Stack Web Developer | L2 Application Support | UI / UX Designer | Manual Tester <br>
 🎓 BSIT Graduate | Technology Enthusiast | Committed to Continuous Learning
 
 I'm passionate about building reliable software, solving real-world problems, and continuously improving my technical skills.
@@ -8,7 +8,7 @@ Currently gaining hands-on experience in application support, software testing, 
 
 I enjoy learning how systems work behind the scenes — from development and deployment to optimization and collaboration within real-world environments.
 
-## 🚀 Endevours 
+## 🚀 Current Endevours 
 
 - Building modern web applications
 - Strengthening backend development skills
