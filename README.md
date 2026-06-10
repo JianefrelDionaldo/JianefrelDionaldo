@@ -1,44 +1,25 @@
 ## 👋 Hi, I'm Jian
 
-💻 Aspiring IT Professional  
-🎓 BSIT Graduate | Technology Enthusiast | Continuous Learner
+💻 Full-Stack Web Developer | L2 Application Support | UI / UX Design | Manual Tester <br>
+🎓 BSIT Graduate | Technology Enthusiast | Committed to Continuous Learning
 
-I’m passionate about technology, problem-solving, and building practical digital solutions.  
-Currently developing hands-on experience across modern IT tools, software development, cloud technologies, and system workflows while continuously strengthening both technical and professional skills.
+I'm passionate about building reliable software, solving real-world problems, and continuously improving my technical skills.
+Currently gaining hands-on experience in application support, software testing, and web development while expanding my knowledge in backend systems, cloud technologies, and software engineering practices.
 
 I enjoy learning how systems work behind the scenes — from development and deployment to optimization and collaboration within real-world environments.
 
-## 🚀 Areas of Interest
+## 🚀 Endevours 
 
-Web Development • Cloud & DevOps Fundamentals • Technical Support & System Troubleshooting • Software Testing & QA Processes • Automation & Workflow Optimization • IT Infrastructure & Deployment Concepts • API Integration & Backend Systems
+- Building modern web applications
+- Strengthening backend development skills
+- Learning Cloud Practioner Essentials
+- Improving software architecture and system design knowledge
+- Growing as an aspiring professional Software Engineer 🔥 🔥 🔥
 
-<!--
-## 🛠️ Technologies & Tools
+## My Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,python,ts,nodejs,express,react,nextjs,html,css,tailwindcss,docker,postgres,mongodb,mysql,postman,prisma,aws,git,githubactions,npm,pnpm,figma,bash,rabbitmq,redis,vite,vscode,nginx,notion,discord)](https://skillicons.dev)
 
-### Programming & Development
-JavaScript • TypeScript • Node.js • Express.js • React.js • HTML & CSS
-
-### Database & Backend
-
-MySQL • REST APIs • Basic System Design Concepts
-
-### Tools & Platforms
-
-Git & GitHub • Docker Fundamentals • Linux Environment • GitHub Actions • VS Code • Postman
-
-### Currently Exploring
-
-AWS Cloud Fundamentals • CI/CD Concepts • Infrastructure & Deployment Workflows • Automation Practices
-
-## 📌 Current Focus
-
-Building real-world projects and improving technical depth
-- Strengthening problem-solving and development workflows
-- Expanding knowledge in cloud technologies and scalable systems
-- Growing as a collaborative and adaptable IT professional
--->
-
-## 🌱 Philosophy
+## 📈 Professional Growth
 
 > *“Start simple. Stay consistent. Improve every day.”*
 
